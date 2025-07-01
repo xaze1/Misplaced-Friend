@@ -1,0 +1,12 @@
+{
+  "itemGroup.misplacedfriend.main": "Misplaced Friend",
+  "item.misplacedfriend.astral_sword": "Astral Sword",
+
+  "misplacedfriend.configuration.title": "Misplaced Friend Configs",
+  "misplacedfriend.configuration.section.misplacedfriend.common.toml": "Misplaced Friend Configs",
+  "misplacedfriend.configuration.section.misplacedfriend.common.toml.title": "Misplaced Friend Configs",
+  "misplacedfriend.configuration.items": "Item List",
+  "misplacedfriend.configuration.logDirtBlock": "Log Dirt Block",
+  "misplacedfriend.configuration.magicNumberIntroduction": "Magic Number Text",
+  "misplacedfriend.configuration.magicNumber": "Magic Number"
+}

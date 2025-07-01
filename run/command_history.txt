@@ -1,0 +1,3 @@
+/summon minecraft:wither
+/summon minecraft:sheep
+/item replace entity Dev armor.head with misplacedfriend:astral_sword
